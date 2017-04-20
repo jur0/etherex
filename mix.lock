@@ -1,0 +1,1 @@
+%{"keccakf1600": {:git, "https://github.com/jur0/erlang-keccakf1600.git", "a87d31d32250091262e0da5ee2c2a4535bc50945", [branch: "original-keccak"]}}

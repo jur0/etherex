@@ -1,0 +1,2 @@
+defmodule Etherex do
+end
